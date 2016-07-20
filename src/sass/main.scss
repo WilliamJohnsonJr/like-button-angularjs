@@ -1,0 +1,17 @@
+.container{
+width: 140px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 100px;
+}
+
+.likeButton{
+	background: #2B96DD;
+	color: white;
+	padding: 20px;
+	border-radius: 6px;
+	width: 100px;
+	outline: none;
+	border-width: 2px 3px 3px 2px;
+	border-color: darken(#2B96DD, 5%)
+}
